@@ -1,5 +1,5 @@
 lst=[]
-#num=int(input("Enter the number of digits in the series: "))
+num=int(input("Enter the number of digits in the series: "))
 for n in range():
         series= int(input("Enter the numbers of the series:"))
         lst.append(series)
